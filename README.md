@@ -1,0 +1,1 @@
+Admission Portal, this is Project I have written a code in C language in my first year of college. The Application of portal is to shortlist the candidate with data entry of his/her Academics details.
